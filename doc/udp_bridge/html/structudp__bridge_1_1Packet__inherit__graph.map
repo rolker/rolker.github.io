@@ -1,0 +1,4 @@
+<map id="udp_bridge::Packet" name="udp_bridge::Packet">
+<area shape="rect" id="node1" title="Represents any supported packet." alt="" coords="29,80,174,107"/>
+<area shape="rect" id="node2" href="$structudp__bridge_1_1PacketHeader.html" title=" " alt="" coords="5,5,197,32"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="udp_bridge::SequencedPacket" name="udp_bridge::SequencedPacket">
+<area shape="rect" id="node1" title="Wrapper packet containing a packet as well as connection metadata." alt="" coords="5,169,221,196"/>
+<area shape="rect" id="node2" href="$structudp__bridge_1_1SequencedPacketHeader.html" title=" " alt="" coords="5,80,221,121"/>
+<area shape="rect" id="node3" href="$structudp__bridge_1_1PacketHeader.html" title=" " alt="" coords="17,5,209,32"/>
+</map>
